@@ -1,0 +1,8 @@
+#include <stdio.h>
+using naamespace std;
+int main ()
+{
+cout << "Hi It's me .\n";
+cout << "I'm learning to program !\n";
+return 0;
+}
